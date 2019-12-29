@@ -10,6 +10,6 @@
       <RowConstraints />
    </rowConstraints>
    <children>
-      <Pane minHeight="980.0" minWidth="1080.0" onMouseMoved="#mouseMoved" prefHeight="200.0" prefWidth="200.0" />
+      <Pane minHeight="500.0" minWidth="500.0" onMouseMoved="#mouseMoved" prefHeight="200.0" prefWidth="200.0" />
    </children>
 </GridPane>
