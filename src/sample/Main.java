@@ -7,6 +7,11 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 import java.awt.*;
+import java.io.BufferedInputStream;
+import java.io.BufferedOutputStream;
+import java.io.BufferedReader;
+import java.io.Reader;
+import java.nio.ByteBuffer;
 
 public class Main extends Application {
 
